@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="empty"></string>
+	<string name="app_name">Tωitter</string>
+	<string name="title_activity_account">Account</string>
+	<string name="title_activity_compose">Compose</string>
+	<string name="title_activity_login">Login</string>
+	<string name="title_activity_timeline">Timeline</string>
+	<string name="title_section1">Home</string>
+	<string name="title_section2">Timeline</string>
+	<string name="title_section3">Mentions</string>
+	<string name="title_section4">My Account</string>
+	<string name="title_section5">Trends</string>
+	<string name="title_section6">About</string>
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+	<string name="action_compose_send">Send</string>
+	<string name="action_logout">Log Out</string>
+	<string name="action_test_tweet">Send Test Tweet</string>
+	<string name="loginText">Slide to Login</string>
+	
+	<string-array name="mock_tweets">
+		<item>it costs an average of one minute for every ten minutes spent driving.</item>
+		<item>25,000,000 of your cells died while you eat them.</item>
+		<item>The Aztecs killed about 20,000 people have reportedly been murdered for unfriending someone on Facebook.</item>
+		<item>Only 3.5 million use it daily.</item>
+	</string-array>
+	
+
+	<!-- Twitter Configurations -->
+	<string name="twitter_callback">http://juyo.us/CS3200</string>
+	<string name="twitter_consumer_key">wot7X0dSwfhznJRfoPf6g2tV2</string>
+	<string name="twitter_consumer_secret">ngoCrVIPupmZxTXyyB2BqyHFu4tRNht3g6y4x5TxHgdNm0sD9k</string>
+	<string name="twitter_oauth_verifier">oauth_verifier</string>
+	<!-- End Configurations -->
+	
+</resources>

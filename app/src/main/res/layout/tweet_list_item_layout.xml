@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.juyo.us.T_omega_itter.TweetListItemView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:paddingTop="5dp"
+  android:paddingBottom="5dp"
+  android:orientation="horizontal"
+  android:scrollbars="vertical"
+  android:fadingEdge="vertical"
+  >
+
+  <ImageView
+  	android:id="@+id/tweet_list_item_icon"
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:clickable="true"
+  	android:maxHeight="60dp"
+  	android:maxWidth="60dp"
+  	android:minHeight="60dp"
+  	android:minWidth="60dp"
+  	android:padding="10dp"
+  	android:src="@drawable/ic_launcher" />
+
+  <TextView
+  	android:id="@+id/tweet_list_item_screenname"
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:layout_alignParentTop="true"
+  	android:layout_toRightOf="@+id/tweet_list_item_icon"
+  	android:clickable="true"
+  	android:paddingRight="5dp"
+  	android:paddingTop="8dp"
+  	android:text="screenname"
+  	android:textAppearance="?android:attr/textAppearanceMedium"
+  	android:textColor="@color/clientColorDarker1"
+  	android:textSize="16sp" />
+  
+  <TextView
+  	android:id="@+id/tweet_list_item_username"
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:layout_alignBaseline="@+id/tweet_list_item_screenname"
+  	android:layout_toRightOf="@+id/tweet_list_item_screenname"
+  	android:clickable="true"
+  	android:paddingRight="5dp"
+  	android:paddingTop="8dp"
+  	android:text="username"
+  	android:textAppearance="?android:attr/textAppearanceMedium"
+  	android:textColor="@color/clientColorDarker3"
+  	android:textSize="14sp" />
+  
+  <ImageView
+  	android:id="@+id/tweet_list_item_protected_icon"
+  	android:layout_width="14dp"
+  	android:layout_height="14dp"
+  	android:layout_alignBottom="@+id/tweet_list_item_username"
+  	android:layout_toRightOf="@+id/tweet_list_item_username"
+  	android:src="@drawable/lock_small"
+  	android:visibility="gone"
+	/>
+  
+  <TextView
+  	android:id="@+id/tweet_list_item_status_text"
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:layout_alignLeft="@+id/tweet_list_item_screenname"
+  	android:layout_below="@+id/tweet_list_item_screenname"
+  	android:clickable="true"
+  	android:freezesText="false"
+  	android:hint="this is the tweet text asdfasdf asdf asdf qwefj hqwoiefuhqowekfj qwdf "
+  	android:paddingRight="10dp"
+  	android:textColor="@color/clientColor"
+  	android:textSize="17sp" />
+
+  <Button
+  	android:id="@+id/tweet_button_retweet"
+  	android:layout_width="40dp"
+  	android:layout_height="30dp"
+  	android:layout_below="@+id/tweet_list_item_status_text"
+  	android:layout_toRightOf="@+id/tweet_list_item_icon"
+  	android:clickable="true"
+  	android:text="RT"
+  	android:textSize="12sp" />
+
+  <Button
+  	android:id="@+id/tweet_button_favorite"
+  	android:layout_width="40dp"
+  	android:layout_height="30dp"
+  	android:layout_below="@+id/tweet_list_item_status_text"
+  	android:layout_marginLeft="20dp"
+  	android:layout_toRightOf="@+id/tweet_button_retweet"
+  	android:text="Fav"
+  	android:textSize="12sp" />
+
+</com.juyo.us.T_omega_itter.TweetListItemView>

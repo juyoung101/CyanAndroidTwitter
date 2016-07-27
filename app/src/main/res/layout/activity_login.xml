@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical" 
+	android:background="@color/clientColorBlack1"
+	>
+
+	<View 
+		android:layout_width="match_parent" 
+		android:layout_height="0dp"
+		android:layout_weight="0.6"
+		/>
+	
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="0.3"
+		android:orientation="vertical"
+		>
+		
+		<TextView
+			android:id="@+id/loginText"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/loginText" 
+			android:textSize="28sp"
+			android:textColor="@color/clientColor"
+			android:gravity="center"
+			android:paddingLeft="25dp"
+			android:paddingRight="25dp"
+			android:layout_margin="10dp"
+			
+			/>
+
+		<SeekBar
+			android:id="@+id/loginSlider"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_margin="10dp"
+			android:longClickable="false"
+			android:max="100"
+			android:mirrorForRtl="false"
+			android:paddingLeft="40dp"
+			android:paddingRight="40dp"
+			android:progress="1" />
+
+	</LinearLayout>
+	
+	<View 
+		android:layout_width="match_parent" 
+		android:layout_height="0dp"
+		android:layout_weight="0.1"
+		/>
+
+</LinearLayout>

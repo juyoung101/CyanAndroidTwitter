@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_screen.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\fragment_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\border_image_account.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\border_image_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timeline_simple.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\activity_timeline_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timeline.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\activity_timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_account.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_list_item_layout_textonly.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\tweet_list_item_layout_textonly.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_list_item_layout.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\tweet_list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_compose.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\activity_compose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_layout.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_timeline_simple.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\AndroidStudioProjects\\addeltle\\app\\src\\main\\res\\layout\\fragment_timeline_simple.xml"
+    }
+]

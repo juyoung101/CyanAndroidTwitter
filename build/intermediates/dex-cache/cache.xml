@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Justin\Dropbox\AndroidStudioProjects\addeltle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbd23abf73aa643cc8843c8c29fbf0aca8e0f9ec">
+        <dex dex="C:\Users\Justin\Dropbox\AndroidStudioProjects\addeltle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dfb28d26ef0a925cebed67ea22a61a05b8f7d6cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Justin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Justin\Dropbox\AndroidStudioProjects\addeltle\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_0c1a43e081793a656a1a5dfc483e433cd612b7fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\AndroidStudioProjects\addeltle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f254a8e0dc4f0a13e97e1d312336b36e3fe74cb2">
+        <dex dex="C:\Users\Justin\Dropbox\AndroidStudioProjects\addeltle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1193a1410b1e3ec95ab26e1b5103e4b579e1e5c0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\AndroidStudioProjects\addeltle\app\libs\twitter4j-core-4.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="C:\Users\Justin\Dropbox\AndroidStudioProjects\addeltle\app\build\intermediates\transforms\dex\debug\folders\1000\2\twitter4j-core-4.0.2_43926e7da46f365cfef03f366f3c475ac1df5998\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="color_primary">#00FFFF</color>
+	<color name="color_primary_dark">#AAAA00</color>
+	<color name="color_accent">#999999</color>
+	<color name="tweet_list_item_background_color">#EEEEEE</color>
+	<color name="black">#000000</color>
+	<color name="white">#FFFFFF</color>
+	<color name="clientColor">#00CCDD</color>
+	<color name="clientColorBlack">#00292C</color>
+	<color name="clientColorBlack1">#001719</color>
+	<color name="clientColorDarker1">#00BAC9</color>
+	<color name="clientColorDarker2">#00A8B6</color>
+	<color name="clientColorDarker3">#0096A2</color>
+	<color name="clientColorDarker4">#00848F</color>
+	
+</resources>
